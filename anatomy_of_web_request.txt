@@ -1,3 +1,5 @@
+                                              **THE ANATOMY OF A WEB REQUEST**
+
 A web application can be broadly described to consist of two parts; a client side and a server side. While the client side allows the
  user to interact with the application, the server side houses all the business/application logic that enables the smooth running of the
  application.
